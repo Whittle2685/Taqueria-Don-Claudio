@@ -1,0 +1,51 @@
+body {
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  h1, h2 {
+    font-family: "Jacques Francois Shadow";
+  }
+  
+  
+  header h1, header h2 {
+    color: #fcfbfa;
+    font-weight: bolder;
+    font: outline;
+  }
+  
+  footer {
+    background-image: linear-gradient(#2e852b, rgb(8, 82, 8));
+    padding: 20px 0;
+  }
+  
+  .jumbotron {
+    background-image: url(img/peppers.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom:1px solid #ff6a00;
+    margin-top: 0;
+  }
+  
+  .row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+  }
+  
+  header h1 {
+    padding-top: 300px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  h3 {
+    color: #000;
+  }
+  
+  #carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;}
